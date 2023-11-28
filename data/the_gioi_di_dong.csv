@@ -1,5 +1,5 @@
-Công nghệ màn hình,Độ sáng màn hình tối đa,Màn hình cảm ứng,Màn hình rộng,Độ phân giải camera sau,Đèn flase camera sau,Tính năng camera sau,Độ phân giải camera trước,Tính năng camera trước,CPU,GPU,Hệ điều hành,Tốc độ GPU,RAM,Dung lượng,Bluetooth,Cổng sạc,GPS,Jack tai nghe,Kết nối khác,Mạng di động,SIM,Wifi,Công nghệ pin,Dung lượng pin,Hỗ trợ sạc tối đa,Loại pin,Bảo mật nâng cao,Ghi âm,Kháng nước,Nghe nhạc,Xem phim
-IPS LCD,625 nits,Kính cường lực Oleophobic (ion cường lực),"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,4 đèn LED 2 tông màu,"Trôi nhanh thời gian (Time Lapse)
+Name,Công nghệ màn hình,Độ sáng màn hình tối đa,Màn hình cảm ứng,Màn hình rộng,Độ phân giải camera sau,Đèn flase camera sau,Tính năng camera sau,Độ phân giải camera trước,Tính năng camera trước,CPU,GPU,Hệ điều hành,Tốc độ GPU,RAM,Dung lượng,Bluetooth,Cổng sạc,GPS,Jack tai nghe,Kết nối khác,Mạng di động,SIM,Wifi,Công nghệ pin,Dung lượng pin,Hỗ trợ sạc tối đa,Loại pin,Bảo mật nâng cao,Ghi âm,Kháng nước,Nghe nhạc,Xem phim
+iphone-11-128gb,IPS LCD,625 nits,Kính cường lực Oleophobic (ion cường lực),"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,4 đèn LED 2 tông màu,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -34,7 +34,7 @@ Sạc không dây",3110 mAh,18 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm 
 AAC
 FLAC
 Lossless",H.264(MPEG4-AVC)
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Đèn LED kép,"Trôi nhanh thời gian (Time Lapse)
+iphone-12-128gb,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Đèn LED kép,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -71,7 +71,7 @@ Sạc không dây MagSafe",2815 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,
 AAC
 FLAC
 Lossless",H.264(MPEG4-AVC)
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Đèn LED kép,"Trôi nhanh thời gian (Time Lapse)
+iphone-12-256gb,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Đèn LED kép,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -108,7 +108,7 @@ Sạc không dây MagSafe",2815 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,
 AAC
 FLAC
 Lossless",H.264(MPEG4-AVC)
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Đèn LED kép,"Trôi nhanh thời gian (Time Lapse)
+iphone-12,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Đèn LED kép,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -145,7 +145,7 @@ Sạc không dây MagSafe",2815 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,
 AAC
 FLAC
 Lossless",H.264(MPEG4-AVC)
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Dolby Vision HDR
+iphone-13-256gb,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -182,7 +182,7 @@ Tiết kiệm pin
 Sạc không dây",3240 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm có microphone chuyên dụng chống ồn,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Dolby Vision HDR
+iphone-13,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -219,7 +219,7 @@ Tiết kiệm pin
 Sạc không dây",3240 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm có microphone chuyên dụng chống ồn,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-14-256gb,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Chế độ hành động (Action Mode)
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -255,7 +255,7 @@ Dual-band (2.4 GHz/5 GHz)
 Wi-Fi 802.11 a/b/g/n/ac/ax","Tiết kiệm pin
 Sạc không dây
 Sạc không dây MagSafe",3279 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,MP3 AAC,H.264(MPEG4-AVC) MP4
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-14-plus-256gb,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Chế độ hành động (Action Mode)
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
@@ -290,7 +290,7 @@ Dual-band (2.4 GHz/5 GHz)
 Wi-Fi 802.11 a/b/g/n/ac/ax","Tiết kiệm pin
 Sạc không dây
 Sạc không dây MagSafe",4325 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,MP3 AAC,H.264(MPEG4-AVC) MP4
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-14-plus,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Chế độ hành động (Action Mode)
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -325,7 +325,7 @@ Dual-band (2.4 GHz/5 GHz)
 Wi-Fi 802.11 a/b/g/n/ac/ax","Tiết kiệm pin
 Sạc không dây
 Sạc không dây MagSafe",4325 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,MP3 AAC,H.264(MPEG4-AVC) MP4
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-14-pro-256gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -363,7 +363,7 @@ Sạc không dây
 Sạc không dây MagSafe",3200 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-14-pro-512gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -401,7 +401,7 @@ Sạc không dây
 Sạc không dây MagSafe",3200 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-14-pro-max-1tb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -440,7 +440,7 @@ Sạc không dây
 Sạc không dây MagSafe",4323 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 ALAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-14-pro-max-256gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -479,7 +479,7 @@ Sạc không dây
 Sạc không dây MagSafe",4323 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 ALAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-14-pro-max-512gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -518,7 +518,7 @@ Sạc không dây
 Sạc không dây MagSafe",4323 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 ALAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-14-pro-max,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -557,7 +557,7 @@ Sạc không dây
 Sạc không dây MagSafe",4323 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 ALAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-14-pro,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -595,7 +595,7 @@ Sạc không dây
 Sạc không dây MagSafe",3200 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-14,OLED,1200 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",2 camera 12 MP,Có,"Chế độ hành động (Action Mode)
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -631,7 +631,7 @@ Dual-band (2.4 GHz/5 GHz)
 Wi-Fi 802.11 a/b/g/n/ac/ax","Tiết kiệm pin
 Sạc không dây
 Sạc không dây MagSafe",3279 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,MP3 AAC,H.264(MPEG4-AVC) MP4
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-15-256gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -675,7 +675,7 @@ Sạc không dây
 Sạc không dây MagSafe",3349 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-15-512gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -719,7 +719,7 @@ Sạc không dây
 Sạc không dây MagSafe",3349 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-15-plus-256gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -759,7 +759,7 @@ Tiết kiệm pin
 Sạc không dây",4383 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-15-plus-512gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -799,7 +799,7 @@ Tiết kiệm pin
 Sạc không dây",4383 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-15-plus,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -839,7 +839,7 @@ Tiết kiệm pin
 Sạc không dây",4383 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-15-pro-1tb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -873,7 +873,7 @@ GALILEO",Type-C,NFC,Hỗ trợ 5G,1 Nano SIM & 1 eSIM,"Wi-Fi MIMO
 Có","Tiết kiệm pin
 Sạc không dây
 Sạc không dây MagSafe",3274 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,Có,Có
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-15-pro-256gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -907,7 +907,7 @@ GALILEO",Type-C,NFC,Hỗ trợ 5G,1 Nano SIM & 1 eSIM,"Wi-Fi MIMO
 Có","Tiết kiệm pin
 Sạc không dây
 Sạc không dây MagSafe",3274 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,Có,Có
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-15-pro-512gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -941,7 +941,7 @@ GALILEO",Type-C,NFC,Hỗ trợ 5G,1 Nano SIM & 1 eSIM,"Wi-Fi MIMO
 Có","Tiết kiệm pin
 Sạc không dây
 Sạc không dây MagSafe",3274 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,Có,Có
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Dolby Vision HDR
+iphone-15-pro-max-1tb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -979,7 +979,7 @@ Sạc ngược không dây
 Sạc không dây MagSafe",4422 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Dolby Vision HDR
+iphone-15-pro-max-512gb,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1017,7 +1017,7 @@ Sạc ngược không dây
 Sạc không dây MagSafe",4422 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Dolby Vision HDR
+iphone-15-pro-max,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.7"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1055,7 +1055,7 @@ Sạc ngược không dây
 Sạc không dây MagSafe",4422 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
+iphone-15-pro,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 12 MP, 12 MP",Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -1089,7 +1089,7 @@ GALILEO",Type-C,NFC,Hỗ trợ 5G,1 Nano SIM & 1 eSIM,"Wi-Fi MIMO
 Có","Tiết kiệm pin
 Sạc không dây
 Sạc không dây MagSafe",3274 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,Có,Có
-OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
+iphone-15,OLED,2000 nits,Kính cường lực Ceramic Shield,"6.1"" - Tần số quét 60 Hz",Chính 48 MP & Phụ 12 MP,Có,"Chế độ hành động (Action Mode)
 Dolby Vision HDR
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -1133,19 +1133,19 @@ Sạc không dây
 Sạc không dây MagSafe",3349 mAh,20 W,Li-Ion,Mở khoá khuôn mặt Face ID,Ghi âm mặc định,IP68,"MP3
 AAC
 FLAC",H.264(MPEG4-AVC)
-LCD,,Không có cảm ứng,"1.77""",0.08 MP,Có,,Không có,,Không có,,Không có,,48 MB,128 MB,v4.2,Micro USB,Có,3.5 mm,Không có,Hỗ trợ 4G,2 Micro SIM,Không có,,1000 mAh,1.75 W,Li-Po,Không có,Ghi âm cuộc gọi,Không có,"MP3
+itel-it9010,LCD,,Không có cảm ứng,"1.77""",0.08 MP,Có,,Không có,,Không có,,Không có,,48 MB,128 MB,v4.2,Micro USB,Có,3.5 mm,Không có,Hỗ trợ 4G,2 Micro SIM,Không có,,1000 mAh,1.75 W,Li-Po,Không có,Ghi âm cuộc gọi,Không có,"MP3
 Midi
 ADPCM","MP4
 AVI
 3GP
 FLV"
-LCD,,Không có cảm ứng,"2.4""",0.3 MP,Có,,,,,,Không có,,64 MB,128 MB,v4.2,Micro USB,,3.5 mm,,Hỗ trợ 4G,2 Micro SIM,Có,,1900 mAh,1.75 W,Li-Po,,Ghi âm mặc định,,"MP3
+itel-it9210,LCD,,Không có cảm ứng,"2.4""",0.3 MP,Có,,,,,,Không có,,64 MB,128 MB,v4.2,Micro USB,,3.5 mm,,Hỗ trợ 4G,2 Micro SIM,Có,,1900 mAh,1.75 W,Li-Po,,Ghi âm mặc định,,"MP3
 Midi
 ADPCM","MP4
 AVI
 3GP
 FLV"
-IPS LCD,Hãng không công bố,Mặt kính cong 2.5D,"6.52"" - Tần số quét Hãng không công bố","Chính 8 MP & Phụ VGA, VGA",Có,"Zoom kỹ thuật số
+itel-l6502,IPS LCD,Hãng không công bố,Mặt kính cong 2.5D,"6.52"" - Tần số quét Hãng không công bố","Chính 8 MP & Phụ VGA, VGA",Có,"Zoom kỹ thuật số
 Tự động lấy nét (AF)
 Chạm lấy nét",5 MP,,Spreadtrum SC9832E 4 nhân,Mali-T820 MP1,Android 10 (Go Edition),1.4 GHz,3 GB,32 GB,v4.3,Micro USB,GPS,3.5 mm,OTG,Hỗ trợ 4G,2 Nano SIM,Wi-Fi 802.11 b/g/n,,4000 mAh,5 W,Li-Ion,Mở khóa bằng vân tay Mở khoá khuôn mặt,Ghi âm mặc định,,"MP3
 AAC
@@ -1153,33 +1153,33 @@ Midi
 WAV","MP4
 AVI
 3GP"
-TFT LCD,,Không có cảm ứng,"2"" - Tần số quét Không có",,Không có,Không có,Không có,Không có,Unisoc UIS8910,Không có,Không có,Không có,16 MB,24 MB,v4.2,Type-C,Không có,Không có,Không có,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,Không có,2000 mAh,,Li-Ion,Không có,Ghi âm mặc định,Không có,"MP3
+masstel-fami-60,TFT LCD,,Không có cảm ứng,"2"" - Tần số quét Không có",,Không có,Không có,Không có,Không có,Unisoc UIS8910,Không có,Không có,Không có,16 MB,24 MB,v4.2,Type-C,Không có,Không có,Không có,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,Không có,2000 mAh,,Li-Ion,Không có,Ghi âm mặc định,Không có,"MP3
 AAC
 M4A",MP4 3GP
-TFT LCD,,Không có cảm ứng,"1.77""",Không có,,,Không có,,Unisoc UMS9117,,Không có,,48 MB,128 MB,v4.2,Micro USB,Không có,3.5 mm,Không có,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,Không có,1000 mAh,,Li-Ion,,Ghi âm mặc định,Không có,"MP3
+masstel-izi-10,TFT LCD,,Không có cảm ứng,"1.77""",Không có,,,Không có,,Unisoc UMS9117,,Không có,,48 MB,128 MB,v4.2,Micro USB,Không có,3.5 mm,Không có,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,Không có,1000 mAh,,Li-Ion,,Ghi âm mặc định,Không có,"MP3
 AMR
 WAV","MP4
 AVI
 3GP"
-TFT LCD,,Không có cảm ứng,"2.4""",Không có,,,Không có,,Unisoc T107,,,Không có,48 MB,128 MB,v5.0,Micro USB,Không có,3.5 mm,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1800 mAh,Hãng không công bố,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,"MP3
+masstel-izi-26,TFT LCD,,Không có cảm ứng,"2.4""",Không có,,,Không có,,Unisoc T107,,,Không có,48 MB,128 MB,v5.0,Micro USB,Không có,3.5 mm,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1800 mAh,Hãng không công bố,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,"MP3
 AMR
 WAV",MP4 3GP
-TFT LCD,,Không có cảm ứng,"2.4""",Không có,,,Không có,,Unisoc T107,,,Không có,48 MB,128 MB,v5.0,Type-C,Không có,Không có,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1400 mAh,Hãng không công bố,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,"MP3
+masstel-lux-10,TFT LCD,,Không có cảm ứng,"2.4""",Không có,,,Không có,,Unisoc T107,,,Không có,48 MB,128 MB,v5.0,Type-C,Không có,Không có,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1400 mAh,Hãng không công bố,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,"MP3
 AMR
 WAV",MP4 3GP
-TFT LCD,,Không có cảm ứng,"2.4""",Không có,,,Không có,,Unisoc T107,,Không có,,48 MB,128 MB,v5.0,Type-C,Không có,,,Hỗ trợ 4G,2 Nano SIM,Không có,,1800 mAh,,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,"MP3
+masstel-lux-20,TFT LCD,,Không có cảm ứng,"2.4""",Không có,,,Không có,,Unisoc T107,,Không có,,48 MB,128 MB,v5.0,Type-C,Không có,,,Hỗ trợ 4G,2 Nano SIM,Không có,,1800 mAh,,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,"MP3
 AAC
 M4A",MP4 3GP
-TFT LCD,,Không có cảm ứng,"2""",Không có,,,Không có,,Unisoc T107,Không có,Không có,1.0 GHz,48 MB,128 MB,v5.0,Micro USB,Không có,Không có,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1500 mAh,2.5 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,MP3,3GP
-TFT LCD,,Không có cảm ứng,"2.31""",0.08 MP,,,Không có,,Unisoc T107,Không có,Không có,1.0 GHz,48 MB,128 MB,v5.0,Micro USB,Không có,Micro USB,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1600 mAh,2.5 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,,MP3,3GP
-TFT LCD,,Kính thường,"1.77""",8 MP,Không có,Không có,,,Unisoc UMS9117-L,Không có,Không có,1.0 GHz,48 MB,128 MB,Có,Micro USB,Không có,,Không có,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1000 mAh,2.5 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,,,
-TFT LCD,,Kính thường,"2.4""",0.8 MP,,,Không có,,Unisoc T107,,,1.0 GHz,48 MB,128 MB,,Micro USB,,Không có,Không có,Hỗ trợ 4G VoLTE,2 Nano SIM,,,1000 mAh,2.5 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,,MP3,3GP
-TFT LCD,,Không có cảm ứng,"2.8""",0.08 MP,,Không có,Không có,,Unisoc T107,,Không có,1.0 GHz,48 MB,128 MB,v5.0,Micro USB,Không có,Micro USB,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,2000 mAh,2.5 W,Li-Ion,Không có,Ghi âm mặc định Ghi âm cuộc gọi,Không có,MP3,3GP
-TFT LCD,,Không có cảm ứng,"2.4""",Không có,,,Không có,,Unisoc T107,,Không có,1.0 GHz,48 MB,128 MB,v5.0,Micro USB,Không có,Micro USB,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,3250 mAh,2.5 W,Li-Ion,Không có,Ghi âm mặc định Ghi âm cuộc gọi,Không có,MP3,3GP
-TFT LCD,,Không có cảm ứng,"1.8""",,Không có,,,,Unisoc T107,,Series 30+,,48 MB,128 MB,,Micro USB,,3.5 mm,,Hỗ trợ 4G VoLTE,2 Nano SIM,,,1020 mAh,,Li-Ion,,,,,
-TFT LCD,,Không có cảm ứng,"1.8""",0.08 MP,,,,,,,,,48 MB,128 MB,,Micro USB,,3.5 mm,,Hỗ trợ 4G,2 Nano SIM,,,1020 mAh,,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,,WAV,AVI
-,,Không có cảm ứng,"2.8""",0.3 MP,,,Không có,,Unisoc T107,,Series 30+,,48 MB,128 MB,v5.0,Micro USB,Không có,3.5 mm,,Hỗ trợ 4G,2 Nano SIM,Không có,,1450 mAh,2.75 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,MP3,3GP
-IPS LCD,600 nits,Kính cường lực Panda,"6.56"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 0.3 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+mobell-f209,TFT LCD,,Không có cảm ứng,"2""",Không có,,,Không có,,Unisoc T107,Không có,Không có,1.0 GHz,48 MB,128 MB,v5.0,Micro USB,Không có,Không có,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1500 mAh,2.5 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,MP3,3GP
+mobell-f309,TFT LCD,,Không có cảm ứng,"2.31""",0.08 MP,,,Không có,,Unisoc T107,Không có,Không có,1.0 GHz,48 MB,128 MB,v5.0,Micro USB,Không có,Micro USB,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1600 mAh,2.5 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,,MP3,3GP
+mobell-m239,TFT LCD,,Kính thường,"1.77""",8 MP,Không có,Không có,,,Unisoc UMS9117-L,Không có,Không có,1.0 GHz,48 MB,128 MB,Có,Micro USB,Không có,,Không có,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,1000 mAh,2.5 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,,,
+mobell-m331,TFT LCD,,Kính thường,"2.4""",0.8 MP,,,Không có,,Unisoc T107,,,1.0 GHz,48 MB,128 MB,,Micro USB,,Không có,Không có,Hỗ trợ 4G VoLTE,2 Nano SIM,,,1000 mAh,2.5 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,,MP3,3GP
+mobell-m539,TFT LCD,,Không có cảm ứng,"2.8""",0.08 MP,,Không có,Không có,,Unisoc T107,,Không có,1.0 GHz,48 MB,128 MB,v5.0,Micro USB,Không có,Micro USB,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,2000 mAh,2.5 W,Li-Ion,Không có,Ghi âm mặc định Ghi âm cuộc gọi,Không có,MP3,3GP
+mobell-rock-4,TFT LCD,,Không có cảm ứng,"2.4""",Không có,,,Không có,,Unisoc T107,,Không có,1.0 GHz,48 MB,128 MB,v5.0,Micro USB,Không có,Micro USB,,Hỗ trợ 4G VoLTE,2 Nano SIM,Không có,,3250 mAh,2.5 W,Li-Ion,Không có,Ghi âm mặc định Ghi âm cuộc gọi,Không có,MP3,3GP
+nokia-105-4g,TFT LCD,,Không có cảm ứng,"1.8""",,Không có,,,,Unisoc T107,,Series 30+,,48 MB,128 MB,,Micro USB,,3.5 mm,,Hỗ trợ 4G VoLTE,2 Nano SIM,,,1020 mAh,,Li-Ion,,,,,
+nokia-110-4g,TFT LCD,,Không có cảm ứng,"1.8""",0.08 MP,,,,,,,,,48 MB,128 MB,,Micro USB,,3.5 mm,,Hỗ trợ 4G,2 Nano SIM,,,1020 mAh,,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,,WAV,AVI
+nokia-8210-4g,,,Không có cảm ứng,"2.8""",0.3 MP,,,Không có,,Unisoc T107,,Series 30+,,48 MB,128 MB,v5.0,Micro USB,Không có,3.5 mm,,Hỗ trợ 4G,2 Nano SIM,Không có,,1450 mAh,2.75 W,Li-Ion,,Ghi âm mặc định Ghi âm cuộc gọi,Không có,MP3,3GP
+oppo-a17,IPS LCD,600 nits,Kính cường lực Panda,"6.56"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 0.3 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Toàn cảnh (Panorama)
 Ban đêm (Night Mode)
@@ -1208,7 +1208,7 @@ Dual-band (2.4 GHz/5 GHz)",Tiết kiệm pin Siêu tiết kiệm pin,5000 mAh,10
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,600 nits,Kính cường lực Panda,"6.56"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-a17k,IPS LCD,600 nits,Kính cường lực Panda,"6.56"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Toàn cảnh (Panorama)
 Ban đêm (Night Mode)
@@ -1230,7 +1230,7 @@ Dual-band (2.4 GHz/5 GHz)",,5000 mAh,10 W,Li-Po,Mở khoá vân tay cạnh viề
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,720 nits,Kính cường lực Panda,"6.56"" - Tần số quét 90 Hz",Chính 8 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-a18-128gb,IPS LCD,720 nits,Kính cường lực Panda,"6.56"" - Tần số quét 90 Hz",Chính 8 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
@@ -1261,7 +1261,7 @@ Dual-band (2.4 GHz/5 GHz)",Tiết kiệm pin Siêu tiết kiệm pin,5000 mAh,10
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,720 nits,Kính cường lực Panda,"6.56"" - Tần số quét 90 Hz",Chính 8 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-a18,IPS LCD,720 nits,Kính cường lực Panda,"6.56"" - Tần số quét 90 Hz",Chính 8 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
@@ -1292,7 +1292,7 @@ Dual-band (2.4 GHz/5 GHz)",Tiết kiệm pin Siêu tiết kiệm pin,5000 mAh,10
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,720 nits,Kính cường lực Panda,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-a38,IPS LCD,720 nits,Kính cường lực Panda,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
@@ -1324,7 +1324,7 @@ Sạc siêu nhanh SuperVOOC",5000 mAh,33 W,Li-Po,Mở khoá vân tay cạnh vi�
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,600 nits,Kính cường lực Panda,"6.56"" - Tần số quét 60 Hz",Chính 13 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-a57-128gb,IPS LCD,600 nits,Kính cường lực Panda,"6.56"" - Tần số quét 60 Hz",Chính 13 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
@@ -1344,7 +1344,7 @@ Nhãn dán (AR Stickers)
 Làm đẹp A.I
 Xóa phông
 Bộ lọc màu",MediaTek Helio G35 8 nhân,IMG PowerVR GE8320,Android 12,2.3 GHz,4 GB,,,,,,,,,,,,,,,,,,
-LTPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-a58-4g,LTPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Xóa phông
 Toàn cảnh (Panorama)
 Tự động lấy nét (AF)
@@ -1369,7 +1369,7 @@ Dual-band (2.4 GHz/5 GHz)",Sạc siêu nhanh SuperVOOC,5000 mAh,33 W,Li-Po,Mở 
 FLAC
 OGG
 Midi",MP4 AVI
-LTPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-a58,LTPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Xóa phông
 Toàn cảnh (Panorama)
 Tự động lấy nét (AF)
@@ -1400,7 +1400,7 @@ Dual-band (2.4 GHz/5 GHz)",Sạc siêu nhanh SuperVOOC,5000 mAh,33 W,Li-Po,Mở 
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,600 nits,Kính cường lực Panda,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-a77s,IPS LCD,600 nits,Kính cường lực Panda,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
 Xóa phông
@@ -1434,7 +1434,7 @@ Sạc siêu nhanh SuperVOOC",5000 mAh,33 W,Li-Po,Mở khoá vân tay cạnh vi�
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,430 nits,Kính cường lực Corning Gorilla Glass 5,"6.43"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Quay video hiển thị kép
+oppo-a78,AMOLED,430 nits,Kính cường lực Corning Gorilla Glass 5,"6.43"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quét tài liệu
@@ -1467,7 +1467,7 @@ Sạc siêu nhanh SuperVOOC",5000 mAh,67 W,Li-Po,Mở khoá vân tay dưới mà
 FLAC
 OGG
 Midi",MP4 AVI
-LTPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
+oppo-a98-5g,LTPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -1502,7 +1502,7 @@ Sạc siêu nhanh SuperVOOC",5000 mAh,67 W,Li-Po,Mở khoá vân tay cạnh vi�
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,Chính 1600 nits & Phụ 900 nits,Kính siêu mỏng Ultra Thin Glass (UTG),"Chính 6.8"" & Phụ 3.26"" - Tần số quét 120 Hz & 60 Hz",Chính 50 MP & Phụ 8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-find-n2-flip,AMOLED,Chính 1600 nits & Phụ 900 nits,Kính siêu mỏng Ultra Thin Glass (UTG),"Chính 6.8"" & Phụ 3.26"" - Tần số quét 120 Hz & 60 Hz",Chính 50 MP & Phụ 8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Quay chậm (Slow Motion)
 Xóa phông
 Toàn cảnh (Panorama)
@@ -1531,7 +1531,7 @@ Wi-Fi 802.11 a/b/g/n/ac/ax",Sạc siêu nhanh SuperVOOC,4300 mAh,44 W,Li-Po,Mở
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,Chính 1600 nits & Phụ 900 nits,Chính: Kính siêu mỏng Schott UTG & Phụ: Corning Gorilla Glass 7,"Chính 6.8"" & Phụ 3.26"" - Tần số quét Chính: 120 Hz & Phụ: 60 Hz","Chính 50 MP & Phụ 48 MP, 32 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-find-n3-flip-hong,AMOLED,Chính 1600 nits & Phụ 900 nits,Chính: Kính siêu mỏng Schott UTG & Phụ: Corning Gorilla Glass 7,"Chính 6.8"" & Phụ 3.26"" - Tần số quét Chính: 120 Hz & Phụ: 60 Hz","Chính 50 MP & Phụ 48 MP, 32 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Quét tài liệu
@@ -1580,7 +1580,7 @@ OGG
 Midi","MP4
 AVI
 3GP"
-AMOLED,Chính 1600 nits & Phụ 900 nits,Chính: Kính siêu mỏng Schott UTG & Phụ: Corning Gorilla Glass 7,"Chính 6.8"" & Phụ 3.26"" - Tần số quét Chính: 120 Hz & Phụ: 60 Hz","Chính 50 MP & Phụ 48 MP, 32 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+oppo-find-n3-flip,AMOLED,Chính 1600 nits & Phụ 900 nits,Chính: Kính siêu mỏng Schott UTG & Phụ: Corning Gorilla Glass 7,"Chính 6.8"" & Phụ 3.26"" - Tần số quét Chính: 120 Hz & Phụ: 60 Hz","Chính 50 MP & Phụ 48 MP, 32 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Quét tài liệu
@@ -1629,7 +1629,7 @@ OGG
 Midi","MP4
 AVI
 3GP"
-AMOLED,2800 nits,Chính: Ultra Thin Glass & Phụ: Kính siêu mỏng Nanocrystal,"Chính 7.82"" & Phụ 6.31"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 48 MP, 64 MP",Có,"Quay video hiển thị kép
+oppo-find-n3,AMOLED,2800 nits,Chính: Ultra Thin Glass & Phụ: Kính siêu mỏng Nanocrystal,"Chính 7.82"" & Phụ 6.31"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 48 MP, 64 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1679,7 +1679,7 @@ Sạc siêu nhanh SuperVOOC",4805 mAh,67 W,Li-Po,Mở khoá vân tay cạnh vi�
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 32 MP, 8 MP",Có,"Quay video hiển thị kép
+oppo-reno10-5g-128gb,AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 32 MP, 8 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1723,7 +1723,7 @@ Sạc siêu nhanh SuperVOOC",5000 mAh,67 W,Li-Po,Mở khoá vân tay dưới mà
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,1100 nits,Kính cường lực AGC DT-Star2,"6.74"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 64 MP, 8 MP",Có,"Quay video hiển thị kép
+oppo-reno10-pro-plus,AMOLED,1100 nits,Kính cường lực AGC DT-Star2,"6.74"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 64 MP, 8 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1770,7 +1770,7 @@ Dual-band (2.4 GHz/5 GHz)",Tiết kiệm pin Sạc siêu nhanh SuperVOOC,4700 mA
 FLAC
 OGG
 Midi",AVI 3GP
-AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 32 MP, 8 MP",Có,"Quay video hiển thị kép
+oppo-reno10-pro,AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 32 MP, 8 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1810,7 +1810,7 @@ Dual-band (2.4 GHz/5 GHz)",Tiết kiệm pin Sạc siêu nhanh SuperVOOC,4600 mA
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 32 MP, 8 MP",Có,"Quay video hiển thị kép
+oppo-reno10-xam,AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 32 MP, 8 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1854,7 +1854,7 @@ Sạc siêu nhanh SuperVOOC",5000 mAh,67 W,Li-Po,Mở khoá vân tay dưới mà
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 32 MP, 8 MP",Có,"Quay video hiển thị kép
+oppo-reno10,AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 32 MP, 8 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1898,7 +1898,7 @@ Sạc siêu nhanh SuperVOOC",5000 mAh,67 W,Li-Po,Mở khoá vân tay dưới mà
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,800 nits,Kính cường lực Corning Gorilla Glass 5,"6.7"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Quay video hiển thị kép
+oppo-reno8-pro,AMOLED,800 nits,Kính cường lực Corning Gorilla Glass 5,"6.7"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -1933,7 +1933,7 @@ GALILEO",Type-C,OTG,Hỗ trợ 5G,2 Nano SIM,Dual-band (2.4 GHz/5 GHz) Wi-Fi 802
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
+oppo-reno8-t-5g-256gb,AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -1967,7 +1967,7 @@ Dual-band (2.4 GHz/5 GHz)",Sạc siêu nhanh SuperVOOC,4800 mAh,67 W,Li-Po,Mở 
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
+oppo-reno8-t-5g,AMOLED,800 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -2001,7 +2001,7 @@ Dual-band (2.4 GHz/5 GHz)",Sạc siêu nhanh SuperVOOC,4800 mAh,67 W,Li-Po,Mở 
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,600 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 90 Hz","Chính 100 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
+oppo-reno8-t,AMOLED,600 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 90 Hz","Chính 100 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -2035,7 +2035,7 @@ Dual-band (2.4 GHz/5 GHz)",Sạc siêu nhanh SuperVOOC,5000 mAh,33 W,Li-Po,Mở 
 FLAC
 OGG
 Midi",MP4 AVI
-Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Quay video hiển thị kép
+realme-10,Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -2076,7 +2076,7 @@ AVI
 FLV
 MKV
 TS"
-Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 90 Hz",Chính 108 MP & Phụ 2 MP,Có,"Quay chậm (Slow Motion)
+realme-11-128gb,Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 90 Hz",Chính 108 MP & Phụ 2 MP,Có,"Quay chậm (Slow Motion)
 Xóa phông
 Toàn cảnh (Panorama)
 Ban đêm (Night Mode)
@@ -2109,7 +2109,7 @@ AVI
 FLV
 MKV
 TS"
-AMOLED,950 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 200 MP & Phụ 8 MP, 2 MP",Có,"Quay thiên văn
+realme-11-pro-plus-5g,AMOLED,950 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz","Chính 200 MP & Phụ 8 MP, 2 MP",Có,"Quay thiên văn
 Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -2157,7 +2157,7 @@ H.265
 H.263
 TS
 WEBM"
-AMOLED,950 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz",Chính 100 MP & Phụ 2 MP,Có,"Quay video hiển thị kép
+realme-11-pro,AMOLED,950 nits,Kính cường lực AGC DT-Star2,"6.7"" - Tần số quét 120 Hz",Chính 100 MP & Phụ 2 MP,Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Quay chậm (Slow Motion)
 Xóa phông
@@ -2198,7 +2198,7 @@ AMR
 Midi
 WAV
 APE",Có
-Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 90 Hz",Chính 108 MP & Phụ 2 MP,Có,"Quay chậm (Slow Motion)
+realme-11,Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 90 Hz",Chính 108 MP & Phụ 2 MP,Có,"Quay chậm (Slow Motion)
 Xóa phông
 Toàn cảnh (Panorama)
 Ban đêm (Night Mode)
@@ -2231,7 +2231,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,400 nits,Kính thường,"6.5"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+realme-c30s-3gb-64gb,IPS LCD,400 nits,Kính thường,"6.5"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
@@ -2252,7 +2252,7 @@ M4A","AVI
 FLV
 MKV
 TS"
-IPS LCD,560 nits,Kính cường lực Panda,"6.74"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 0.3 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+realme-c51-128gb,IPS LCD,560 nits,Kính cường lực Panda,"6.74"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 0.3 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Quay chậm (Slow Motion)
 Xóa phông
 Toàn cảnh (Panorama)
@@ -2284,7 +2284,7 @@ APE","H.264(MPEG4-AVC)
 H.265
 H.263
 Xvid"
-IPS LCD,560 nits,Kính cường lực Panda,"6.74"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 0.3 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+realme-c51,IPS LCD,560 nits,Kính cường lực Panda,"6.74"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 0.3 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Quay chậm (Slow Motion)
 Xóa phông
 Toàn cảnh (Panorama)
@@ -2316,7 +2316,7 @@ APE","H.264(MPEG4-AVC)
 H.265
 H.263
 Xvid"
-IPS LCD,560 nits,Kính cường lực Panda,"6.74"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 0.08 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+realme-c53-8gb,IPS LCD,560 nits,Kính cường lực Panda,"6.74"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 0.08 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
 Xóa phông
@@ -2349,7 +2349,7 @@ WMV
 AVI
 3GP
 MKV"
-IPS LCD,560 nits,Kính cường lực Panda,"6.74"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 0.08 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+realme-c53,IPS LCD,560 nits,Kính cường lực Panda,"6.74"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 0.08 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
 Xóa phông
@@ -2383,7 +2383,7 @@ WMV
 AVI
 3GP
 MKV"
-IPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 90 Hz",Chính 64 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+realme-c55-8gb,IPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 90 Hz",Chính 64 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
 Xóa phông
@@ -2418,7 +2418,7 @@ AVI
 3GP
 MKV
 TS"
-IPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 90 Hz",Chính 64 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+realme-c55,IPS LCD,680 nits,Kính cường lực Panda,"6.72"" - Tần số quét 90 Hz",Chính 64 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
 Xóa phông
@@ -2453,7 +2453,7 @@ AVI
 3GP
 MKV
 TS"
-IPS LCD,Hãng không công bố,Kính cường lực Corning Gorilla Glass 3,"6.5"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-a04-4gb-64gb,IPS LCD,Hãng không công bố,Kính cường lực Corning Gorilla Glass 3,"6.5"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
@@ -2472,7 +2472,7 @@ Dual-band (2.4 GHz/5 GHz)",Không có,5000 mAh,15 W,Li-Po,Mở khoá khuôn mặ
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,Hãng không công bố,Kính cường lực Corning Gorilla Glass 3,"6.5"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-a04,IPS LCD,Hãng không công bố,Kính cường lực Corning Gorilla Glass 3,"6.5"" - Tần số quét 60 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
@@ -2491,7 +2491,7 @@ Dual-band (2.4 GHz/5 GHz)",Không có,5000 mAh,15 W,Li-Po,Mở khoá khuôn mặ
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,400 nits,Kính cường lực Corning Gorilla Glass 3,"6.5"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 2 MP, 2 MP",Có,"Zoom kỹ thuật số
+samsung-galaxy-a04s,IPS LCD,400 nits,Kính cường lực Corning Gorilla Glass 3,"6.5"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 2 MP, 2 MP",Có,"Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
 Tự động lấy nét (AF)
@@ -2514,7 +2514,7 @@ Dual-band (2.4 GHz/5 GHz)",Tiết kiệm pin,5000 mAh,15 W,Li-Po,Mở khoá vân
 FLAC
 OGG
 Midi",MP4 AVI
-PLS LCD,400 nits,Kính thường,"6.6"" - Tần số quét 60 Hz","Chính 50 MP & Phụ 5 MP, 2 MP",Có,"Zoom kỹ thuật số
+samsung-galaxy-a14-4gb,PLS LCD,400 nits,Kính thường,"6.6"" - Tần số quét 60 Hz","Chính 50 MP & Phụ 5 MP, 2 MP",Có,"Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
 Tự động lấy nét (AF)
@@ -2548,7 +2548,7 @@ AVI
 3GP
 FLV
 MKV"
-PLS LCD,518 nits,Kính thường,"6.6"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 2 MP, 2 MP",Có,"Quay chậm (Slow Motion)
+samsung-galaxy-a14-5g,PLS LCD,518 nits,Kính thường,"6.6"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 2 MP, 2 MP",Có,"Quay chậm (Slow Motion)
 Xóa phông
 Toàn cảnh (Panorama)
 Ban đêm (Night Mode)
@@ -2582,7 +2582,7 @@ AVI
 3GP
 FLV
 MKV"
-PLS LCD,400 nits,Kính thường,"6.6"" - Tần số quét 60 Hz","Chính 50 MP & Phụ 5 MP, 2 MP",Có,"Zoom kỹ thuật số
+samsung-galaxy-a14,PLS LCD,400 nits,Kính thường,"6.6"" - Tần số quét 60 Hz","Chính 50 MP & Phụ 5 MP, 2 MP",Có,"Zoom kỹ thuật số
 Xóa phông
 Toàn cảnh (Panorama)
 Tự động lấy nét (AF)
@@ -2617,7 +2617,7 @@ AVI
 3GP
 FLV
 MKV"
-Super AMOLED,1000 nits,Kính thường,"6.5"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 5 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-a24-8gb,Super AMOLED,1000 nits,Kính thường,"6.5"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 5 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Chống rung quang học (OIS)
 Tự động lấy nét (AF)
@@ -2644,7 +2644,7 @@ AVI
 3GP
 FLV
 MKV"
-Super AMOLED,1000 nits,Kính thường,"6.5"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 5 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-a24,Super AMOLED,1000 nits,Kính thường,"6.5"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 5 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Chống rung quang học (OIS)
 Tự động lấy nét (AF)
@@ -2671,7 +2671,7 @@ AVI
 3GP
 FLV
 MKV"
-Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.6"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 8 MP, 5 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-a34-5g-128gb,Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.6"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 8 MP, 5 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Quay chậm (Slow Motion)
@@ -2712,7 +2712,7 @@ AVI
 3GP
 FLV
 MKV"
-Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.6"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 8 MP, 5 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-a34,Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.6"" - Tần số quét 120 Hz","Chính 48 MP & Phụ 8 MP, 5 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Quay chậm (Slow Motion)
@@ -2753,7 +2753,7 @@ AVI
 3GP
 FLV
 MKV"
-Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 5 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-a54-5g-128gb,Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 5 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Quay chậm (Slow Motion)
@@ -2797,7 +2797,7 @@ AVI
 3GP
 FLV
 MKV"
-Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 5 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-a54,Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.4"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 5 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Quay chậm (Slow Motion)
@@ -2841,7 +2841,7 @@ AVI
 3GP
 FLV
 MKV"
-Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.5"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-m34-5g,Super AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.5"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Quét tài liệu
@@ -2889,7 +2889,7 @@ AVI
 FLV
 MKV
 WEBM"
-Dynamic AMOLED 2X,1200 nits,Kính cường lực Corning Gorilla Glass Victus,"6.4"" - Tần số quét 120 Hz","Chính 12 MP & Phụ 12 MP, 8 MP",Có,"Quay video hiển thị kép
+samsung-galaxy-s21-fe-256gb,Dynamic AMOLED 2X,1200 nits,Kính cường lực Corning Gorilla Glass Victus,"6.4"" - Tần số quét 120 Hz","Chính 12 MP & Phụ 12 MP, 8 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -2923,7 +2923,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1200 nits,Kính cường lực Corning Gorilla Glass Victus,"6.4"" - Tần số quét 120 Hz","Chính 12 MP & Phụ 12 MP, 8 MP",Có,"Quay video hiển thị kép
+samsung-galaxy-s21-fe-6gb,Dynamic AMOLED 2X,1200 nits,Kính cường lực Corning Gorilla Glass Victus,"6.4"" - Tần số quét 120 Hz","Chính 12 MP & Phụ 12 MP, 8 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Quay chậm (Slow Motion)
@@ -2957,7 +2957,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus+,"6.8"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP",Đèn LED kép,"Quay video hiển thị kép
+samsung-galaxy-s22-ultra,Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus+,"6.8"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP",Đèn LED kép,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -3014,7 +3014,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.1"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-s23-5g,Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.1"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -3060,7 +3060,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.6"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-s23-plus-5g-512gb,Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.6"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -3109,7 +3109,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.6"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-s23-plus,Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.6"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -3158,7 +3158,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.8"" - Tần số quét 120 Hz","Chính 200 MP & Phụ 12 MP, 10 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-s23-ultra-5g-1tb,Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.8"" - Tần số quét 120 Hz","Chính 200 MP & Phụ 12 MP, 10 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3206,7 +3206,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.8"" - Tần số quét 120 Hz","Chính 200 MP & Phụ 12 MP, 10 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-s23-ultra-5g-512gb,Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.8"" - Tần số quét 120 Hz","Chính 200 MP & Phụ 12 MP, 10 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3254,7 +3254,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.8"" - Tần số quét 120 Hz","Chính 200 MP & Phụ 12 MP, 10 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-s23-ultra,Dynamic AMOLED 2X,1750 nits,Kính cường lực Corning Gorilla Glass Victus 2,"6.8"" - Tần số quét 120 Hz","Chính 200 MP & Phụ 12 MP, 10 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3302,7 +3302,7 @@ AVI
 3GP
 FLV
 MKV"
-"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED",1200 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus+,"Chính 6.7"" & Phụ 1.9"" - Tần số quét 120 Hz",2 camera 12 MP,Có,"Quay video hiển thị kép
+samsung-galaxy-z-flip4-5g-512gb,"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED",1200 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus+,"Chính 6.7"" & Phụ 1.9"" - Tần số quét 120 Hz",2 camera 12 MP,Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -3351,7 +3351,7 @@ AVI
 3GP
 FLV
 MKV"
-"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED",1200 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus+,"Chính 6.7"" & Phụ 1.9"" - Tần số quét 120 Hz",2 camera 12 MP,Có,"Quay video hiển thị kép
+samsung-galaxy-z-flip4,"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED",1200 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus+,"Chính 6.7"" & Phụ 1.9"" - Tần số quét 120 Hz",2 camera 12 MP,Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -3400,7 +3400,7 @@ AVI
 3GP
 FLV
 MKV"
-"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED",1000 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 6.7"" & Phụ 3.4"" - Tần số quét Chính: 120 Hz & Phụ: 60 Hz",2 camera 12 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-z-flip5-5g-512gb,"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED",1000 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 6.7"" & Phụ 3.4"" - Tần số quét Chính: 120 Hz & Phụ: 60 Hz",2 camera 12 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3443,7 +3443,7 @@ AVI
 3GP
 FLV
 MKV"
-"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED",1000 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 6.7"" & Phụ 3.4"" - Tần số quét Chính: 120 Hz & Phụ: 60 Hz",2 camera 12 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-z-flip5,"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED",1000 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 6.7"" & Phụ 3.4"" - Tần số quét Chính: 120 Hz & Phụ: 60 Hz",2 camera 12 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3486,7 +3486,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1200 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus+,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-z-fold4-5g-512gb,Dynamic AMOLED 2X,1200 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus+,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3537,7 +3537,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1200 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus+,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-z-fold4,Dynamic AMOLED 2X,1200 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus+,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3588,7 +3588,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-z-fold5-5g-1tb,Dynamic AMOLED 2X,1750 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3636,7 +3636,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-z-fold5-5g-512gb,Dynamic AMOLED 2X,1750 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3684,7 +3684,7 @@ AVI
 3GP
 FLV
 MKV"
-Dynamic AMOLED 2X,1750 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+samsung-galaxy-z-fold5,Dynamic AMOLED 2X,1750 nits,Chính: Ultra Thin Glass & Phụ: Corning Gorilla Glass Victus 2,"Chính 7.6"" & Phụ 6.2"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 12 MP, 10 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Góc rộng (Wide)
@@ -3732,7 +3732,7 @@ AVI
 3GP
 FLV
 MKV"
-AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.56"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 8 MP, 2 MP",Có,"Quay video hiển thị kép
+vivo-v25-pro-5g,AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.56"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 8 MP, 2 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -3780,7 +3780,7 @@ AVI
 3GP
 FLV
 MKV"
-AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.44"" - Tần số quét 90 Hz","Chính 64 MP & Phụ 8 MP, 2 MP",Có,"Quay video hiển thị kép
+vivo-v25,AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.44"" - Tần số quét 90 Hz","Chính 64 MP & Phụ 8 MP, 2 MP",Có,"Quay video hiển thị kép
 Phơi sáng kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -3837,7 +3837,7 @@ AVI
 3GP
 FLV
 MKV"
-AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.44"" - Tần số quét 90 Hz","Chính 64 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
+vivo-v25e,AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.44"" - Tần số quét 90 Hz","Chính 64 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -3888,7 +3888,7 @@ AVI
 3GP
 FLV
 MKV"
-AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.62"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
+vivo-v27e,AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.62"" - Tần số quét 120 Hz","Chính 64 MP & Phụ 2 MP, 2 MP",Có,"Quay video hiển thị kép
 Phơi sáng kép
 Trôi nhanh thời gian (Time Lapse)
 Quay chậm (Slow Motion)
@@ -3932,7 +3932,7 @@ AVI
 FLV
 MKV
 TS"
-AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.78"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Quay thiên văn
+vivo-v29-5g,AMOLED,1300 nits,Kính cường lực Schott Xensation UP,"6.78"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Quay thiên văn
 Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -3984,7 +3984,7 @@ FLV
 MKV
 TS
 WEBM"
-AMOLED,1150 nits,Kính cường lực Schott Xensation UP,"6.67"" - Tần số quét 120 Hz",Chính 64 MP & Phụ 8 MP,Có,"Quay video hiển thị kép
+vivo-v29e-5g,AMOLED,1150 nits,Kính cường lực Schott Xensation UP,"6.67"" - Tần số quét 120 Hz",Chính 64 MP & Phụ 8 MP,Có,"Quay video hiển thị kép
 Phơi sáng kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -4035,7 +4035,7 @@ FLV
 MKV
 TS
 WEBM"
-AMOLED,1150 nits,Kính cường lực Schott Xensation UP,"6.67"" - Tần số quét 120 Hz",Chính 64 MP & Phụ 8 MP,Có,"Quay video hiển thị kép
+vivo-v29e,AMOLED,1150 nits,Kính cường lực Schott Xensation UP,"6.67"" - Tần số quét 120 Hz",Chính 64 MP & Phụ 8 MP,Có,"Quay video hiển thị kép
 Phơi sáng kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
@@ -4086,7 +4086,7 @@ FLV
 MKV
 TS
 WEBM"
-IPS LCD,460 nits,Kính cường lực Panda,"6.51"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y01,IPS LCD,460 nits,Kính cường lực Panda,"6.51"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Chạm lấy nét
@@ -4113,7 +4113,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,400 nits,Hãng không công bố,"6.51"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y02s-64gb,IPS LCD,400 nits,Hãng không công bố,"6.51"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 Làm đẹp",5 MP,"Làm đẹp
@@ -4137,7 +4137,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,400 nits,Kính cường lực Panda,"6.51"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y02t,IPS LCD,400 nits,Kính cường lực Panda,"6.51"" - Tần số quét 60 Hz",8 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quét tài liệu
 Xóa phông
@@ -4170,7 +4170,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,400 nits,Hãng không công bố,"6.51"" - Tần số quét 60 Hz",Chính 13 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y16-64gb,IPS LCD,400 nits,Hãng không công bố,"6.51"" - Tần số quét 60 Hz",Chính 13 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Toàn cảnh (Panorama)
 Chuyên nghiệp (Pro)
@@ -4198,7 +4198,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,840 nits,Kính thường,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y17s-4-128,IPS LCD,840 nits,Kính thường,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quét tài liệu
 Quay chậm (Slow Motion)
@@ -4236,7 +4236,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,840 nits,Kính thường,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y17s-4-64,IPS LCD,840 nits,Kính thường,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quét tài liệu
 Quay chậm (Slow Motion)
@@ -4274,7 +4274,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,840 nits,Kính thường,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y17s,IPS LCD,840 nits,Kính thường,"6.56"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quét tài liệu
 Quay chậm (Slow Motion)
@@ -4312,7 +4312,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,530 nits,Hãng không công bố,"6.55"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y22s-4gb,IPS LCD,530 nits,Hãng không công bố,"6.55"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
 Xóa phông
@@ -4334,7 +4334,7 @@ MP2
 APE
 M4A
 MP1",Có
-IPS LCD,530 nits,Hãng không công bố,"6.55"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
+vivo-y22s-8gb,IPS LCD,530 nits,Hãng không công bố,"6.55"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
 Xóa phông
@@ -4356,7 +4356,7 @@ MP2
 APE
 M4A
 MP1",Có
-IPS LCD,550 nits,Kính cường lực Panda,"6.58"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 2 MP, 2 MP",Đèn LED kép,"Phơi sáng kép
+vivo-y35-2022,IPS LCD,550 nits,Kính cường lực Panda,"6.58"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 2 MP, 2 MP",Đèn LED kép,"Phơi sáng kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -4392,7 +4392,7 @@ Dual-band (2.4 GHz/5 GHz)",FlashCharge Tiết kiệm pin,5000 mAh,44 W,Li-Po,M�
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,650 nits,Kính cường lực,"6.64"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Phơi sáng kép
+vivo-y36-128gb,IPS LCD,650 nits,Kính cường lực,"6.64"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Phơi sáng kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -4436,7 +4436,7 @@ AVI
 FLV
 MKV
 TS"
-IPS LCD,650 nits,Kính cường lực,"6.64"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Phơi sáng kép
+vivo-y36,IPS LCD,650 nits,Kính cường lực,"6.64"" - Tần số quét 90 Hz",Chính 50 MP & Phụ 2 MP,Có,"Phơi sáng kép
 Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Quay chậm (Slow Motion)
@@ -4480,7 +4480,7 @@ AVI
 FLV
 MKV
 TS"
-AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.55"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Quay video hiển thị kép
+xiaomi-13-lite-5g,AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 5,"6.55"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -4516,7 +4516,7 @@ Wi-Fi 802.11 a/b/g/n/ac/ax",Sạc pin nhanh,4500 mAh,67 W,Li-Po,Mở khoá vân 
 FLAC
 OGG
 Midi",MP4 AVI
-AMOLED,2600 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 144 Hz","Chính 50 MP & Phụ 50 MP, 12 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-13t-12gb,AMOLED,2600 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 144 Hz","Chính 50 MP & Phụ 50 MP, 12 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Xiaomi ProCut
@@ -4570,7 +4570,7 @@ AWB","MP4
 3GP
 MKV
 WEBM"
-AMOLED,2600 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 144 Hz","Chính 50 MP & Phụ 50 MP, 12 MP",Có,"Góc siêu rộng (Ultrawide)
+xiaomi-13t-pro,AMOLED,2600 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 144 Hz","Chính 50 MP & Phụ 50 MP, 12 MP",Có,"Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Xiaomi ProCut
 Quét tài liệu
@@ -4615,7 +4615,7 @@ AWB","MP4
 3GP
 MKV
 WEBM"
-AMOLED,2600 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 144 Hz","Chính 50 MP & Phụ 50 MP, 12 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-13t,AMOLED,2600 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 144 Hz","Chính 50 MP & Phụ 50 MP, 12 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Xiaomi ProCut
@@ -4669,7 +4669,7 @@ AWB","MP4
 3GP
 MKV
 WEBM"
-AMOLED,1100 nits,Kính cường lực Corning Gorilla Glass Victus,"6.28"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 13 MP, 5 MP",Có,"Quay video hiển thị kép
+xiaomi-mi-12,AMOLED,1100 nits,Kính cường lực Corning Gorilla Glass Victus,"6.28"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 13 MP, 5 MP",Có,"Quay video hiển thị kép
 Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
@@ -4717,7 +4717,7 @@ Sạc ngược không dây",4500 mAh,67 W,Li-Ion,Mở khoá vân tay dưới mà
 FLAC
 OGG
 Midi",MP4 AVI
-IPS LCD,550 nits,Kính cường lực Corning Gorilla Glass 3,"6.79"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-12-4gb,IPS LCD,550 nits,Kính cường lực Corning Gorilla Glass 3,"6.79"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Xóa phông
@@ -4741,7 +4741,7 @@ Wi-Fi hotspot
 Dual-band (2.4 GHz/5 GHz)","Sạc pin nhanh
 Tiết kiệm pin
 Siêu tiết kiệm pin",5000 mAh,18 W,Li-Po,Mở khoá vân tay cạnh viền Mở khoá khuôn mặt,Ghi âm mặc định Ghi âm cuộc gọi,IP53,Có,Có
-IPS LCD,550 nits,Kính cường lực Corning Gorilla Glass 3,"6.79"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-12,IPS LCD,550 nits,Kính cường lực Corning Gorilla Glass 3,"6.79"" - Tần số quét 90 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Zoom kỹ thuật số
 Xóa phông
@@ -4765,7 +4765,7 @@ Wi-Fi hotspot
 Dual-band (2.4 GHz/5 GHz)","Sạc pin nhanh
 Tiết kiệm pin
 Siêu tiết kiệm pin",5000 mAh,18 W,Li-Po,Mở khoá vân tay cạnh viền Mở khoá khuôn mặt,Ghi âm mặc định Ghi âm cuộc gọi,IP53,Có,Có
-IPS LCD,500 nits,Kính thường,"6.71"" - Tần số quét 60 Hz",Chính 50 MP & Phụ QVGA,Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-12c-64gb,IPS LCD,500 nits,Kính thường,"6.71"" - Tần số quét 60 Hz",Chính 50 MP & Phụ QVGA,Có,"Trôi nhanh thời gian (Time Lapse)
 Xóa phông
 Ban đêm (Night Mode)
 HDR
@@ -4782,7 +4782,7 @@ GLONASS
 GALILEO",3.5 mm,,Hỗ trợ 4G,2 Nano SIM,"Wi-Fi Direct
 Wi-Fi 802.11 a/b/g/n/ac
 Dual-band (2.4 GHz/5 GHz)",,5000 mAh,10 W,Li-Po,Mở khóa bằng vân tay Mở khoá khuôn mặt,Ghi âm mặc định Ghi âm cuộc gọi,,Có,Có
-IPS LCD,500 nits,Kính thường,"6.71"" - Tần số quét 60 Hz",Chính 50 MP & Phụ QVGA,Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-12c,IPS LCD,500 nits,Kính thường,"6.71"" - Tần số quét 60 Hz",Chính 50 MP & Phụ QVGA,Có,"Trôi nhanh thời gian (Time Lapse)
 Xóa phông
 Ban đêm (Night Mode)
 HDR
@@ -4799,7 +4799,7 @@ GLONASS
 GALILEO",3.5 mm,,Hỗ trợ 4G,2 Nano SIM,"Wi-Fi Direct
 Wi-Fi 802.11 a/b/g/n/ac
 Dual-band (2.4 GHz/5 GHz)",,5000 mAh,10 W,Li-Po,Mở khóa bằng vân tay Mở khoá khuôn mặt,Ghi âm mặc định Ghi âm cuộc gọi,,Có,Có
-IPS LCD,400 nits,Kính thường,"6.52"" - Tần số quét 60 Hz",Chính 8 MP & Phụ QVGA (248 x 328 Pixels),Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-a2-plus,IPS LCD,400 nits,Kính thường,"6.52"" - Tần số quét 60 Hz",Chính 8 MP & Phụ QVGA (248 x 328 Pixels),Có,"Trôi nhanh thời gian (Time Lapse)
 Xóa phông
 HDR
 AI Camera",5 MP,"Trôi nhanh thời gian (Time Lapse)
@@ -4816,7 +4816,7 @@ GALILEO",3.5 mm,,Hỗ trợ 4G,2 Nano SIM,"Wi-Fi 802.11 a/b/g/n
 Wi-Fi Direct
 Wi-Fi hotspot
 Wi-Fi 2.4 GHz",,5000 mAh,10 W,Li-Po,Mở khóa bằng vân tay,Ghi âm cuộc gọi,,Có,Có
-IPS LCD,400 nits,Kính thường,"6.52"" - Tần số quét 60 Hz",Chính 8 MP & Phụ QVGA (248 x 328 Pixels),Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-a2,IPS LCD,400 nits,Kính thường,"6.52"" - Tần số quét 60 Hz",Chính 8 MP & Phụ QVGA (248 x 328 Pixels),Có,"Trôi nhanh thời gian (Time Lapse)
 Zoom kỹ thuật số
 Xóa phông
 HDR
@@ -4829,7 +4829,7 @@ Xóa phông",MediaTek Helio G36 8 nhân,IMG PowerVR GE8320,Android 13 (Go Editio
 GPS
 GLONASS
 GALILEO",3.5 mm,,Hỗ trợ 4G,2 Nano SIM,Wi-Fi 802.11 a/b/g/n Wi-Fi 2.4 GHz,Tiết kiệm pin,5000 mAh,10 W,Li-Po,,Ghi âm cuộc gọi,,Có,Có
-AMOLED,1200 nits,Kính cường lực Corning Gorilla Glass 3,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Đèn LED kép,"Góc siêu rộng (Ultrawide)
+xiaomi-redmi-note-12-4g,AMOLED,1200 nits,Kính cường lực Corning Gorilla Glass 3,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Đèn LED kép,"Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Toàn cảnh (Panorama)
 HDR
@@ -4851,7 +4851,7 @@ WMV
 AVI
 3GP
 MKV"
-AMOLED,1200 nits,Kính cường lực Corning Gorilla Glass 3,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Đèn LED kép,"Góc siêu rộng (Ultrawide)
+xiaomi-redmi-note-12-4gb,AMOLED,1200 nits,Kính cường lực Corning Gorilla Glass 3,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Đèn LED kép,"Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Toàn cảnh (Panorama)
 HDR
@@ -4873,7 +4873,7 @@ WMV
 AVI
 3GP
 MKV"
-AMOLED,1200 nits,Kính cường lực Corning Gorilla Glass 3,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Đèn LED kép,"Góc siêu rộng (Ultrawide)
+xiaomi-redmi-note-12-8gb-256gb,AMOLED,1200 nits,Kính cường lực Corning Gorilla Glass 3,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Đèn LED kép,"Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Toàn cảnh (Panorama)
 HDR
@@ -4895,7 +4895,7 @@ WMV
 AVI
 3GP
 MKV"
-AMOLED,1100 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 8 MP, 2 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-note-12-pro-4g-256gb,AMOLED,1100 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 8 MP, 2 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Xiaomi ProCut
@@ -4931,7 +4931,7 @@ WMV
 AVI
 3GP
 MKV"
-AMOLED,1100 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 8 MP, 2 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-note-12-pro-4g,AMOLED,1100 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 120 Hz","Chính 108 MP & Phụ 8 MP, 2 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Xiaomi ProCut
@@ -4967,7 +4967,7 @@ WMV
 AVI
 3GP
 MKV"
-AMOLED,900 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-note-12-pro-5g-tim,AMOLED,900 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Quay chậm (Slow Motion)
@@ -5006,7 +5006,7 @@ WMV
 AVI
 3GP
 MKV"
-AMOLED,900 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-note-12-pro-5g,AMOLED,900 nits,Kính cường lực Corning Gorilla Glass 5,"6.67"" - Tần số quét 120 Hz","Chính 50 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Quay chậm (Slow Motion)
@@ -5045,7 +5045,7 @@ WMV
 AVI
 3GP
 MKV"
-AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 3,"6.43"" - Tần số quét 90 Hz","Chính 108 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
+xiaomi-redmi-note-12s,AMOLED,1000 nits,Kính cường lực Corning Gorilla Glass 3,"6.43"" - Tần số quét 90 Hz","Chính 108 MP & Phụ 8 MP, 2 MP",Có,"Trôi nhanh thời gian (Time Lapse)
 Góc siêu rộng (Ultrawide)
 Góc rộng (Wide)
 Xiaomi ProCut
