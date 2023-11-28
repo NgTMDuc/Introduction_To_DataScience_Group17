@@ -1,4 +1,4 @@
-Thế giới di động: using scrapy framework
+Thế giới di động
 CellphoneS
 FPT Shop
 Hoàng Hà Mobile
